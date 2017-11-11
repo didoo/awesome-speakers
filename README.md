@@ -195,7 +195,7 @@ Juho Vepsäläinen
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
-<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left"" alt="Headshot of Manuel Matuzović" />
+<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" width="auto" align="left" alt="Headshot of Manuel Matuzović" />
 
 Manuel Matuzović  
 Topics: CSS, Accesibility  
@@ -231,7 +231,7 @@ Patrick Stapfer
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
 
-<img src="https://pbs.twimg.com/profile_images/868930803425828864/1TWl571x_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Peter Ferak" />
+<img src="https://pbs.twimg.com/profile_images/927559461522337792/QcqkJkiq_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Peter Ferak" />
 
 Peter Ferak  
 Topics: Functional Programming, Computer Science  
@@ -856,7 +856,7 @@ https://twitter.com/heydonworks
 
 ### Ottawa
 
-<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left"" alt="Headshot of Tanya Janca" />
+<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Tanya Janca" />
 
 Tanya Janca  
 Topics: InfoSec, Web App Security  
@@ -902,7 +902,7 @@ https://twitter.com/mjackson
 
 ### Cincinnati
 
-<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left"" alt="Headshot of Carin Meier" />
+<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Carin Meier" />
 
 Carin Meier  
 Topics: Clojure, Machine Learning, Programming  
@@ -1004,7 +1004,7 @@ Peggy Rayzis
 Topics: React, React Native, GraphQL  
 https://twitter.com/peggyrayzis
 
-<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left"" alt="Headshot of Una Kravets" />
+<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Una Kravets" />
 
 Una Kravets  
 Topics: CSS, Web  
@@ -1054,7 +1054,7 @@ https://twitter.com/micahgodbolt
 
 ### Salt Lake City
 
-<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left"" alt="Headshot of Kent C. Dodds" />
+<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left" alt="Headshot of Kent C. Dodds" />
 
 Kent C. Dodds  
 Topics: OSS, React, Testing  
